@@ -20,7 +20,3 @@ function adivinar() {
         mensaje.textContent = "Por favor, ingresa un número válido";
     }
 }
-
-function hola(){
-  console.log("hola");
-}
